@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PPsarthak](https://github.com/PPsarthak)
 
-- 💬 Ask me about **Java, MySQL**
+- 💬 Ask me about **Java, MySQL, Front-end Development**
 
 - 📫 How to reach me **panditsarthak1553@gmail.com**
 
